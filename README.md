@@ -1,2 +1,2 @@
 # TagCloudFromCommitComments
-A TagCloud generator which takes as input commit comments from Github repos.
+A TagCloud generator which takes commit comments from Github repos  as input.
